@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System
 
-A content-based Movie Recommendation System that suggests similar movies based on user input using cosine similarity.
+A content-based Movie Recommendation System that suggests similar movies based on user input using cosine similarity. 
 
 ---
 
