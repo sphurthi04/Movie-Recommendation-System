@@ -26,7 +26,6 @@ This project recommends movies similar to a given movie by analyzing content fea
 * NumPy
 * Scikit-learn
 * Pickle
-
 ---
 
 ## 📂 Project Structure
